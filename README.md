@@ -1,4 +1,5 @@
-🛒 Blinkit Sales Analysis Dashboard | EXCEL
+# 🛒 BLINKIT SALES ANALYSIS DASHBOARD
+## 📊 Interactive Excel Dashboard for BLINKIT SALES ANALYSIS
 
 📌 Project Overview
 This project is an interactive Blinkit Sales Analysis Dashboard developed using Microsoft Power BI. The goal of this project is to analyze Blinkit's sales performance, customer purchasing behavior, and product insights through interactive visualizations.
