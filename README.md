@@ -1,4 +1,4 @@
-# 🛒 BLINKIT SALES ANALYSIS DASHBOARD
+
 ## 📊 Interactive Excel Dashboard for BLINKIT SALES ANALYSIS
 
 📌 Project Overview
