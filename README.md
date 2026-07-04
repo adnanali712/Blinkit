@@ -2,7 +2,7 @@
 ## 📊 Interactive Excel Dashboard for BLINKIT SALES ANALYSIS
 
 📌 Project Overview
-This project is an interactive Blinkit Sales Analysis Dashboard developed using Microsoft Power BI. The goal of this project is to analyze Blinkit's sales performance, customer purchasing behavior, and product insights through interactive visualizations.
+This project is an interactive Blinkit Sales Analysis Dashboard developed using power query. The goal of this project is to analyze Blinkit's sales performance, customer purchasing behavior, and product insights through interactive visualizations.
 
 The project demonstrates the complete data analysis workflow, including data loading, data cleaning using Power Query Editor, data transformation, and dashboard development.
 
@@ -13,18 +13,20 @@ Understand customer purchasing trends.
 Compare sales across outlet sizes and locations.
 Build an interactive dashboard for business decision-making.
 🛠 Tools & Technologies
-Microsoft Power BI
-Power Query Editor
+Microsoft Excel
+Power Query Editir
 Data Cleaning & Transformation
 Data Visualization
 Interactive Dashboard Design
 
 📂 Project Workflow
-1️⃣ Data Loading
-Imported the raw Blinkit dataset into Power BI.
+Data Loading
+
+Imported the raw Blinkit dataset into Power query
 Verified column names and data types.
 Loaded the data into Power Query Editor.
-2️⃣ Data Cleaning (Power Query)
+
+Data Cleaning (Power Query)
 
 Performed several data cleaning operations, including:
 
@@ -37,12 +39,9 @@ Removed unnecessary columns
 Standardized categorical data
 Prepared clean data for analysis
 
-3️⃣ Data Modeling
-Verified relationships between tables (if applicable)
-Optimized the dataset for dashboard creation
-Created calculated measures using DAX where required
 
-4️⃣ Dashboard Development
+
+ Dashboard Development
 
 Designed an interactive dashboard containing multiple visualizations to provide meaningful business insights.
 
@@ -104,7 +103,7 @@ Through this project, I gained practical experience in:
 
 Importing and transforming real-world datasets
 Cleaning data using Power Query Editor
-Building interactive Power BI dashboards
+Building interactive Excel dashboards
 Creating KPIs and business reports
 Generating actionable business insights through visualization
 
